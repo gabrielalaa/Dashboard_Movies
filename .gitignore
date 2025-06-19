@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Data files
+*.csv
+*.xlsx
+
+# Dash cache
+.dash/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db

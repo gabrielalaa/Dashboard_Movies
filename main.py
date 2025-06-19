@@ -12,7 +12,7 @@ image_style = {
 }
 
 app.layout = dbc.Container([
-    html.H1("Movie Data Dashboard", className="text-center mb-4 mt-4"),
+    html.H1("Movie Dashboard", className="text-center mb-4 mt-4"),
 
     dbc.Row([
         dbc.Col(html.Img(src="/assets/insight1_movies_per_year.png", style=image_style), md=6),
